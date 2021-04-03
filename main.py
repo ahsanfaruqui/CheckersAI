@@ -4,7 +4,7 @@ from checkers.constants import WIDTH, HEIGHT, SQUARE_SIZE, RED, WHITE
 from checkers.board import Board
 from checkers.piece import Piece
 
-#vfgtt
+#AI
 
 FPS = 60
 
